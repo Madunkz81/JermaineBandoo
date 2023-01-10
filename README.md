@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madunkz81
+- 👋 Hi, I’m @JermaineBandoo
 - 👀 I’m interested in learning the types of coding which will boost my career. 
 - 🌱 I’m currently learning html, python, javascript
 - 💞️ I’m looking to collaborate on forums and community groups
